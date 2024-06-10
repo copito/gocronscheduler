@@ -9,5 +9,12 @@
         "bazel-*": true,
         "pkg*": true
     },
-    "explorerExclude.backup": {}
+    "explorerExclude.backup": {},
+    "cSpell.words": [
+        "apimachinery",
+        "clientcmd",
+        "Clientset",
+        "copito",
+        "gocronscheduler"
+    ]
 }
